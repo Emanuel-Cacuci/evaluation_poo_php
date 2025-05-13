@@ -57,4 +57,7 @@ echo "<br><br>";
 $voiture=new Voiture(1,"Golf", "Voiture", 5600);
 $voiture->afficherProduits();
 
+
+// pas de getter et setter dans class model
+//12/20
 ?>
